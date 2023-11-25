@@ -1,0 +1,387 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "subject": "Literature",
+    "topic": "Shakespeare",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "What is the sum of 7 and 9?",
+    "subject": "Mathematics",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "subject": "Science",
+    "topic": "Astronomy",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "subject": "Art",
+    "topic": "Painting",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "What is the square of 12?",
+    "subject": "Mathematics",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Who is known as the 'Father of Computer Science'?",
+    "subject": "Computer Science",
+    "topic": "History",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "subject": "Science",
+    "topic": "Medicine",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "Solve: 4x + 3 = 15",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "subject": "Literature",
+    "topic": "Novel",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "What is the value of π (pi) to two decimal places?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "subject": "History",
+    "topic": "Nobel Prize",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "In which year did World War II end?",
+    "subject": "History",
+    "topic": "World War II",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "Who formulated the theory of relativity?",
+    "subject": "Physics",
+    "topic": "Relativity",
+    "difficulty": "Hard",
+    "marks": 9
+  },
+  {
+    "question": "What is the derivative of e^x?",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 7
+  },
+  {
+    "question": "Who wrote 'One Hundred Years of Solitude'?",
+    "subject": "Literature",
+    "topic": "Novel",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Hard",
+    "marks": 9
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "subject": "Science",
+    "topic": "Chemistry",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "Solve: sin(x) = 0.5",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Hard",
+    "marks": 7
+  },
+  {
+    "question": "Who painted 'The Persistence of Memory'?",
+    "subject": "Art",
+    "topic": "Painting",
+    "difficulty": "Hard",
+    "marks": 9
+  },
+  {
+    "question": "What is the currency of South Africa?",
+    "subject": "Economics",
+    "topic": "Currencies",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "what is torque",
+    "subject": "physics",
+    "topic": "Force",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the capital of France?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "subject": "Literature",
+    "topic": "American Literature",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the square of 9?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "In which year did Christopher Columbus reach the Americas?",
+    "subject": "History",
+    "topic": "Exploration",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "What is the primary language spoken in Japan?",
+    "subject": "Language",
+    "topic": "Japanese",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "subject": "Literature",
+    "topic": "Shakespearean Plays",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "subject": "Biology",
+    "topic": "Medical Science",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "What is the square root of 64?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "subject": "Art",
+    "topic": "Post-Impressionism",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "Who is known as the 'Father of Computer Science'?",
+    "subject": "Computer Science",
+    "topic": "History of Computing",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "What is the main gas responsible for the greenhouse effect?",
+    "subject": "Environmental Science",
+    "topic": "Climate Change",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "In which year did the Industrial Revolution begin?",
+    "subject": "History",
+    "topic": "Industrial Revolution",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "subject": "Literature",
+    "topic": "Dystopian Fiction",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "In which year did World War II end?",
+    "subject": "History",
+    "topic": "World War II",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "What is the derivative of ln(x) with respect to x?",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 9
+  },
+  {
+    "question": "Who proposed the theory of relativity?",
+    "subject": "Physics",
+    "topic": "Relativity",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "What is the capital of Mongolia?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Who is the author of 'The Wealth of Nations'?",
+    "subject": "Economics",
+    "topic": "Classical Economics",
+    "difficulty": "Hard",
+    "marks": 9
+  },
+  {
+    "question": "What is the molecular formula of glucose?",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Who won the Nobel Prize in Peace in 2020?",
+    "subject": "Current Affairs",
+    "topic": "Nobel Prizes",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "What is the significance of the Battle of Gettysburg?",
+    "subject": "History",
+    "topic": "American Civil War",
+    "difficulty": "Hard",
+    "marks": 9
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "subject": "Geography",
+    "topic": "Oceans",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Who formulated the theory of evolution by natural selection?",
+    "subject": "Biology",
+    "topic": "Evolution",
+    "difficulty": "Hard",
+    "marks": 10
+  }
+]
